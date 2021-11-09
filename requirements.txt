@@ -1,0 +1,1 @@
+apache-beam[gcp,aws,test,docs]==2.28.0
